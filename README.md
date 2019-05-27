@@ -33,7 +33,7 @@ the main purpose of this app was take a first glimpse to the Svelte Js library, 
     + Mongo built-in functions such as find, sort
     + GUI with Mongo Compass to check data visually
 
- # how to run this project (assuming that git console and npm is intalled in your machine)
+ # How to run this project (assuming that the git console is intalled in your machine)
  
  You can download this app by cloning it (e.g. git clone name_of_this_repository) or by clicking in the download button. After that you will get a copy of this project, and you must proceed to execute the command "npm install" in order to install all the npm dependencies. Keep in mind this project was uploaded ignoring the node_modules folder (the dependencies folder) because it makes no sense to upload that amount of files here, if you can download them easily from your computer by executing a single command.
  
