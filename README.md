@@ -47,7 +47,7 @@ In case you don't know, these are the list of technologies you need to execute t
 - Svelte compiler: Of course you also need the Svelte JS compiller in your machine to compile the code. These are the commands you need to do such a thing: (for further info, check the official site at: https://svelte.dev/blog/the-easiest-way-to-get-started)
 
   * npx degit sveltejs/template my-svelte-project 
-  * (use this one in case you only want to install Svelte in your machine)
+  * (use the previous command in case you only want to install Svelte in your machine)
   * // the commands bellow here are used to create a brand new project with Svelte in case you want to start one.
   * cd my-svelte-project
   * npm install
