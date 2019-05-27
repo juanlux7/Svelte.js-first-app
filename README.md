@@ -33,18 +33,18 @@ the main purpose of this app was take a first glimpse to the Svelte Js library, 
     + Mongo built-in functions such as find, sort
     + GUI with Mongo Compass to check data visually
 
- # How to run this project (assuming that the git console is intalled in your machine)
+ # How to run this project (assuming that the git console is installed in your machine)
  
- You can download this app by cloning it (e.g. git clone name_of_this_repository) or by clicking in the download button. After that you will get a copy of this project, and you must proceed to execute the command "npm install" in order to install all the npm dependencies. Keep in mind this project was uploaded ignoring the node_modules folder (the dependencies folder) because it makes no sense to upload that amount of files here, if you can download them easily from your computer by executing a single command.
+ You can download this app by cloning it with the help of git (e.g. git clone name_of_this_repository) or by clicking in the download button of this repository. After that you will get a copy of this project downloaded in your machine, and you must proceed to execute the command "npm install" in order to install all the npm dependencies needed to run this project. Keep in mind this project was uploaded ignoring the node_modules folder (which is the dependencies folder) because it makes no sense to upload that amount of files here, if you can download them easily from your computer by executing a single command.
  
-In case you don't know these are the technologies you need to execute this project:
+In case you don't know, these are the list of technologies you need to execute this project:
 
  - Node JS and npm (with the node installer you also install npm). you can install those by visiting the official site at: https://nodejs.org/ 
  
 
 - mongoDB in your local machine with a local database called todos. You can install mongoDB from this place: https://docs.mongodb.com/manual/installation/
 
-- Svelte compiler: Of course you also need the Svelte JS compiller in your machine to compile the code. These are the commands you need to do such a thing: 
+- Svelte compiler: Of course you also need the Svelte JS compiller in your machine to compile the code. These are the commands you need to do such a thing: (for further info, check the official site at: https://svelte.dev/blog/the-easiest-way-to-get-started)
 
   npx degit sveltejs/template my-svelte-project (use this one in case you only want to install Svelte in your machine)
   // the commands bellow here are used to create a brand new project with Svelte in case you want to start one.
