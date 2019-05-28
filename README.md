@@ -4,7 +4,7 @@ Taking a first approach to the new version of Svelte JS, by creating a simple to
 
 # Goal of this project
 
-the main purpose of this app was take a first glimpse to the Svelte Js library, in its 3.0 version. So this is my first app developed with it, and i want to test how this Svelte app connects with Nodejs and MongoDB, making use of a new full stack specification.
+the main purpose of this app was take a first glimpse to the Svelte Js library, in its 3.0 version (testing some of their most important aspects). So this is my first app developed with this technology, and I wanted to test how this Svelte app connects with Nodejs and MongoDB, making use of this "new" full stack environment. Keep in mind the purpose of this project is not the fact of makng a fancy app with a deep functionality, but just showing how this Svelte option integrates with Node and MongoDB.
 
 # Features covered in this app:
 
